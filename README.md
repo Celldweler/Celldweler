@@ -3,9 +3,6 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTEyZDM4NDY0M2FiMzc3OTgxOTkwMjdmMTgwZWEyMDQ1ZDdlYmYwZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/dWesBcTLavkZuG35MI/giphy.gif" >
 
-**Celldweler/Celldweler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
