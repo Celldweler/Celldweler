@@ -1,6 +1,7 @@
 # .NET C# & Vue 
 ### Hi there 👋
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Ftags%2Fcodding&psig=AOvVaw2lFZbbYh4HmEbZ6e5ukBz1&ust=1682338942489000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjMpIr_v_4CFQAAAAAdAAAAABAZ">
 <!--
 **Celldweler/Celldweler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
