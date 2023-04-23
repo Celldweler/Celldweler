@@ -15,7 +15,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Languages and Tools:
+### 🛠 &nbsp;Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
